@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login"> تسجيل الدخول </string>
+    <string name="enter_personal_perfoile"> Enter to your personal profile.com and follow. </string>
+    <string name="phone_number">Phone Number </string>
+    <string name="password">password </string>
+
+</resources>
